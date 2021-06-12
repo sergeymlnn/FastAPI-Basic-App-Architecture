@@ -1,0 +1,5 @@
+.idea
+.vscode
+src/.mypy_cache
+src/.pytest_cache
+src/logs/*.log

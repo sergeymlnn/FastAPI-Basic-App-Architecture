@@ -1,0 +1,14 @@
+aiohttp
+fastapi
+httpx
+pydantic
+pytest
+pytest-asyncio
+python-dateutil
+python-dotenv
+requests
+starlette
+uvicorn
+
+flake8
+mypy
